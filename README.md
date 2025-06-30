@@ -127,4 +127,3 @@ This project is open-source and free to use under the MIT License.
 
 ---
 
-Let me know if you’d like a wiring diagram or example `.ino` sketch file attached to it!
